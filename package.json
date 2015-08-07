@@ -1,13 +1,13 @@
 {
   "name": "smooth-operator-navy-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Atom Smooth Operator Navy Syntax Theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/smooth-operator-navy-syntax",
+  "repository": "https://github.com/kenokabe/smooth-operator-navy-syntax",
   "license": "MIT",
   "author": {
    "name": "Ken Okabe"
